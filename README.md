@@ -1,2 +1,2 @@
-# Taller_Sekia
-Taller práctico de semillero de investigación SEKIA
+# Taller_Proyecto
+Taller práctico de proyecto de innovación
